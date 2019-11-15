@@ -1,4 +1,9 @@
 # o meu primeiro repo
+
+![fallou a imaxe](/logo.jpg)
+
+
+
 ##aprendendo markdown
 
 1. chupi
